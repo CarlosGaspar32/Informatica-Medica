@@ -1,24 +1,27 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="1897910443" file="C:\Users\carlo\OneDrive\Documentos\MATLAB\_Informatica Medica\Practica2\Practica\IMC.prj" location="C:\Users\carlo\OneDrive\Documentos\MATLAB\_Informatica Medica\Practica2\Practica" name="IMC" target="target.mlapps" target-name="Package App">
-    <param.appname>IMC</param.appname>
-    <param.authnamewatermark>Carlos Emilio Gaspar Ortiz</param.authnamewatermark>
-    <param.email>cgasparo1700@alumno.ipn.mx</param.email>
-    <param.company>UPIBI</param.company>
+  <configuration file="C:\Users\carlo\OneDrive\Documentos\MATLAB\_Informatica Medica\Practica3\Doble_Panel.prj" location="C:\Users\carlo\OneDrive\Documentos\MATLAB\_Informatica Medica\Practica3" name="Doble_Panel" target="target.mlapps" target-name="Package App">
+    <param.appname>Doble_Panel</param.appname>
+    <param.authnamewatermark />
+    <param.email>cgaparo1700@alumno.ipn.mx</param.email>
+    <param.company />
     <param.icon />
     <param.icons />
-    <param.summary>Calculo de IMC</param.summary>
+    <param.summary />
     <param.description />
-    <param.screenshot>C:\Users\carlo\AppData\Local\Temp\tpecdbc653_2ee0_477e_a11a_594a11ec0a63.png</param.screenshot>
+    <param.screenshot>C:\Users\carlo\AppData\Local\Temp\tpef13cc2d_8580_41a9_ac4d_5fe25c0b0aae.png</param.screenshot>
     <param.version>1.0</param.version>
     <param.products.name />
     <param.products.id />
     <param.products.version />
     <param.platforms />
     <param.output>${PROJECT_ROOT}</param.output>
-    <param.guid>c002aa09-a2a5-40a0-9270-9b851eacdfbd</param.guid>
+    <param.guid>72b99924-e1c7-43c2-a133-250b1f721e37</param.guid>
     <unset>
+      <param.authnamewatermark />
+      <param.company />
       <param.icon />
       <param.icons />
+      <param.summary />
       <param.description />
       <param.version />
       <param.products.name />
@@ -28,13 +31,13 @@
       <param.output />
     </unset>
     <fileset.main>
-      <file>${PROJECT_ROOT}\Practica2.mlapp</file>
+      <file>${PROJECT_ROOT}\Velocidad.mlapp</file>
     </fileset.main>
     <fileset.depfun />
     <fileset.resources />
     <fileset.package />
     <build-deliverables>
-      <file location="C:\Users\carlo\OneDrive\Documentos\MATLAB\_Informatica Medica\Practica2" name="Practica" optional="false">C:\Users\carlo\OneDrive\Documentos\MATLAB\_Informatica Medica\Practica2\Practica</file>
+      <file location="C:\Users\carlo\OneDrive\Documentos\MATLAB\_Informatica Medica" name="Practica3" optional="false">C:\Users\carlo\OneDrive\Documentos\MATLAB\_Informatica Medica\Practica3</file>
     </build-deliverables>
     <workflow />
     <matlab>
