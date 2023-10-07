@@ -1,24 +1,25 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="668764544" file="C:\Users\carlo\OneDrive\Documentos\MATLAB\_Informatica Medica\Expediente Clinico\Expediente_Clinico.prj" location="C:\Users\carlo\OneDrive\Documentos\MATLAB\_Informatica Medica\Expediente Clinico" name="Expediente_Clinico" target="target.mlapps" target-name="Package App">
-    <param.appname>Expediente_Clinico</param.appname>
-    <param.authnamewatermark>Carlos Emilio Gaspar Ortiz</param.authnamewatermark>
+  <configuration build-checksum="3450132108" file="C:\Users\carlo\OneDrive\Documentos\MATLAB\_Informatica Medica\Tarea3\PanelSwitchLEDs.prj" location="C:\Users\carlo\OneDrive\Documentos\MATLAB\_Informatica Medica\Tarea3" name="PanelSwitchLEDs" target="target.mlapps" target-name="Package App">
+    <param.appname>PanelSwitchLEDs</param.appname>
+    <param.authnamewatermark>Carlos Emilio</param.authnamewatermark>
     <param.email>cgasparo1700@alumno.ipn.mx</param.email>
     <param.company>UPIBI</param.company>
     <param.icon />
     <param.icons />
-    <param.summary>Expediente clinico electronico</param.summary>
+    <param.summary />
     <param.description />
-    <param.screenshot>C:\Users\carlo\AppData\Local\Temp\tp37f6c0fc_f799_40b5_833d_c829c6ef1bd5.png</param.screenshot>
+    <param.screenshot>C:\Users\carlo\AppData\Local\Temp\tpac672a93_9961_431a_8e50_131a7a79e6fd.png</param.screenshot>
     <param.version>1.0</param.version>
     <param.products.name />
     <param.products.id />
     <param.products.version />
     <param.platforms />
     <param.output>${PROJECT_ROOT}</param.output>
-    <param.guid>91f68679-10ea-46e1-a416-aba2df98dc48</param.guid>
+    <param.guid>bd8edd34-02a4-4bbe-9be4-0870e5aa46da</param.guid>
     <unset>
       <param.icon />
       <param.icons />
+      <param.summary />
       <param.description />
       <param.version />
       <param.products.name />
@@ -28,13 +29,13 @@
       <param.output />
     </unset>
     <fileset.main>
-      <file>${PROJECT_ROOT}\Expediente_Clinico1_1.mlapp</file>
+      <file>${PROJECT_ROOT}\Switch_DosLEDS.mlapp</file>
     </fileset.main>
     <fileset.depfun />
     <fileset.resources />
     <fileset.package />
     <build-deliverables>
-      <file location="C:\Users\carlo\OneDrive\Documentos\MATLAB\_Informatica Medica" name="Expediente Clinico" optional="false">C:\Users\carlo\OneDrive\Documentos\MATLAB\_Informatica Medica\Expediente Clinico</file>
+      <file location="C:\Users\carlo\OneDrive\Documentos\MATLAB\_Informatica Medica" name="Tarea3" optional="false">C:\Users\carlo\OneDrive\Documentos\MATLAB\_Informatica Medica\Tarea3</file>
     </build-deliverables>
     <workflow />
     <matlab>
